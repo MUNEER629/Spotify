@@ -1,8 +1,8 @@
-# React + Vite
+# Spotify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive Spotify-inspired music player built with React, bringing the essential features of Spotify to life. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Browse & Search: Quickly search for songs, albums, and artists.
+Now Playing Bar: View and control the current song with play, pause, next, and previous functions.
+Sidebar Navigation: Easy access to Home, Search, and Library.
+Responsive Design: Optimized for all screen sizes.
